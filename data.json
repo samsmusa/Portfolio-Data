@@ -33,7 +33,7 @@
     "social_links": [
       {
         "platform": "facebook",
-        "link": "https://facebook.com/Zinqi",
+        "link": "https://facebook.com/zinqi",
         "icon": "<i class='fa-brands fa-facebook'></i>"
       },
       {
@@ -101,7 +101,7 @@
   },
   "resume": {
     "hidden": true,
-    "git_link": "https://facebook.com/ZinQi",
+    "git_link": "https://facebook.com",
     "download_link": "https://facebook.com"
   },
   "footer": {
