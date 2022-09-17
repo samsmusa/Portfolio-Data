@@ -72,36 +72,6 @@
       },
       {
         "hidden": false,
-        "name": "xero",
-        "images": [
-          {
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Xero_software_logo.svg/1200px-Xero_software_logo.svg.png",
-            "alt": "image"
-          }
-        ],
-        "description": [
-          "fg dfd df ",
-          "fg dfd df ",
-          "fg dfd df "
-        ]
-      },
-      {
-        "hidden": false,
-        "name": "xero",
-        "images": [
-          {
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Xero_software_logo.svg/1200px-Xero_software_logo.svg.png",
-            "alt": "image"
-          }
-        ],
-        "description": [
-          "fg dfd df ",
-          "fg dfd df ",
-          "fg dfd df "
-        ]
-      },
-      {
-        "hidden": false,
         "name": "quickbook",
         "images": [
           {
