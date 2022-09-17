@@ -8,12 +8,9 @@
   },
   "section_2": {
     "hidden": false,
-    "heading": "Let me <span class='text-primary'> introduce </span> myself",
+    "heading": "Nice to <span class='text-primary'> meet you </span> here",
     "image": "./my_image.jpg",
     "description": [
-      {
-        "d": "I fell in love with <span class='text-success'>programming</span> and I have at leas"
-      },
       {
         "d": "BBA & MBA, University of Chittagong"
       },
@@ -21,10 +18,13 @@
         "d": "CMA-Intermediate Level, ICMAB affiliated with CIMA, UK"
       },
       {
-        "d": "I fell in love with programming and I have at least learnt something, I think…"
+        "d": "Skilled on QBO, Xero, Tally ERP, Stessa; and Shopify, Amazon, HubDoc, Hummpay and many more"
       },
       {
-        "d": "I fell in love with programming and I have at least learnt something, I think…"
+        "d": "More than 1 year practical experience on Bookkeeping"
+      },
+      {
+        "d": "Completed projects 12+"
       }
     ],
     "resume_title": "My Resume",
