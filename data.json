@@ -1,0 +1,149 @@
+{
+  "section_1": {
+    "hidden": false,
+    "name": "I'm <strong class='main-name'> Muhammad Nuruddin</strong>",
+    "short_intro": [
+      "hello im Nuruddin",
+      "mello from chittagong",
+      "kello dfs "
+    ]
+  },
+  "section_2": {
+    "hidden": false,
+    "heading": "LET ME <span class='text-primary'> INTRODUCE </span> MYSELF",
+    "image": "./my_image.jpg",
+    "description": [
+      {
+        "d": "I fell in love with <span class='text-success'>programming</span> and I have at leas"
+      },
+      {
+        "d": "I fell in love with programming and I have at least learnt something, I think…"
+      },
+      {
+        "d": "I fell in love with programming and I have at least learnt something, I think…"
+      },
+      {
+        "d": "I fell in love with programming and I have at least learnt something, I think…"
+      },
+      {
+        "d": "I fell in love with programming and I have at least learnt something, I think…"
+      }
+    ],
+    "resume_title": "My Resume",
+    "resume_heading": "FIND ME ON dfdf ",
+    "resume_slogan": "Feel free to <span class='purple'>connect </span>with me",
+    "social_links": [
+      {
+        "platform": "facebook",
+        "link": "https://facebook.com",
+        "icon": "<i class='fa-brands fa-facebook'></i>"
+      },
+      {
+        "platform": "linkedIn",
+        "link": "https://linkedIn.com",
+        "icon": "<i class='fa-brands fa-linkedin'></i>"
+      },
+      {
+        "platform": "Github",
+        "link": "https://Github.com",
+        "icon": "<i class='fa-brands fa-github'></i>"
+      }
+    ]
+  },
+  "section_3": {
+    "hidden": false,
+    "heading": "My Recent <strong class='purple'>Works </strong> work",
+    "short_description": "Here are a few projects I've worked on recently.",
+    "works": [
+      {
+        "hidden": false,
+        "name": "xero",
+        "images": [
+          {
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Xero_software_logo.svg/1200px-Xero_software_logo.svg.png",
+            "alt": "image"
+          }
+        ],
+        "description": [
+          "fg dfd df ",
+          "fg dfd df ",
+          "fg dfd df "
+        ]
+      },
+      {
+        "hidden": false,
+        "name": "xero",
+        "images": [
+          {
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Xero_software_logo.svg/1200px-Xero_software_logo.svg.png",
+            "alt": "image"
+          }
+        ],
+        "description": [
+          "fg dfd df ",
+          "fg dfd df ",
+          "fg dfd df "
+        ]
+      },
+      {
+        "hidden": false,
+        "name": "xero",
+        "images": [
+          {
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Xero_software_logo.svg/1200px-Xero_software_logo.svg.png",
+            "alt": "image"
+          }
+        ],
+        "description": [
+          "fg dfd df ",
+          "fg dfd df ",
+          "fg dfd df "
+        ]
+      },
+      {
+        "hidden": false,
+        "name": "quickbook",
+        "images": [
+          {
+            "image": "https://image.pngaaa.com/467/296467-middle.png",
+            "alt": "image"
+          }
+        ],
+        "description": [
+          "fg dfd df ",
+          "fg dfd df ",
+          "fg dfd df "
+        ]
+      }
+    ]
+  },
+  "section_4": {
+    "email_heading": "Let's Talk",
+    "email_slogan": ""
+  },
+  "resume": {
+    "hidden": true,
+    "git_link": "https://facebook.com",
+    "download_link": "https://facebook.com"
+  },
+  "footer": {
+    "name": "nuruddin",
+    "social_links": [
+      {
+        "platform": "facebook",
+        "link": "https://facebook.com",
+        "icon": "<i class='fa-brands fa-facebook'></i>"
+      },
+      {
+        "platform": "linkedIn",
+        "link": "https://linkedIn.com",
+        "icon": "<i class='fa-brands fa-linkedin'></i>"
+      },
+      {
+        "platform": "Github",
+        "link": "https://Github.com",
+        "icon": "<i class='fa-brands fa-github></i>"
+      }
+    ]
+  }
+}
